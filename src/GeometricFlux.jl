@@ -58,6 +58,7 @@ export
 
     # layer/pool
     GlobalPool,
+    LocalPool,
     sumpool,
     subpool,
     prodpool,
